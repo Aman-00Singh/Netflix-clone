@@ -1,4 +1,4 @@
-import React from 'react'
+
 import './Navbar.css'
 import logo from '../../assets/logo.png'
 import search_icon from '../../assets/search_icon.svg'
@@ -33,7 +33,7 @@ const Navbar = () => {
             <div className="navbar-right">
                 <img src={search_icon} alt="" />
 
-                <p>user1</p>
+                <p>USER</p>
 
                 <img src={bell_icon} alt="" />
                 <div className="navbar-profile">
